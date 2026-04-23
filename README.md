@@ -12,6 +12,7 @@ Classification Models to predict purchase intentions
 It also connects insights to public-sector applications, including digital service optimization and policy-making.
 
 ⚙️ Technologies Used
+
 R Programming
 dplyr, tidyverse – Data preprocessing
 ggplot2, factoextra – Visualization
